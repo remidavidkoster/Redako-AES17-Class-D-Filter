@@ -1,1 +1,3 @@
 Record=TopLevelDocument|FileName=AES17Filter.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=AES17Filter.SchDoc|Designator=U1|SchDesignator=U1|FileName=Single Side Filter.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Single Side Filter.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=AES17Filter.SchDoc|Designator=U2|SchDesignator=U2|FileName=Single Side Filter.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=Single Side Filter.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
