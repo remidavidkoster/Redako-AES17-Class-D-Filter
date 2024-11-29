@@ -129,84 +129,68 @@ DocumentPath=Project Outputs for AES17Filter\AES17Filter-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for AES17Filter\AES17Filter.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for AES17Filter\AES17Filter.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for AES17Filter\AES17Filter.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for AES17Filter\AES17Filter.REP
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for AES17Filter\AES17Filter.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument8]
 DocumentPath=Project Outputs for AES17Filter\Mayhtier.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for AES17Filter\Mayhtier.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for AES17Filter\Mayhtier.GBP
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for AES17Filter\Mayhtier.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for AES17Filter\Mayhtier.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for AES17Filter\Mayhtier.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for AES17Filter\Mayhtier.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for AES17Filter\Mayhtier.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for AES17Filter\Mayhtier.GTS
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Project
-Value=Mayhtier V0.9.0
+Name=
+Value=
 
 [Parameter2]
-Name=HWRev
-Value=0.9.0
+Name=Project
+Value=AES17 / Class-D-Filter
 
 [Parameter3]
+Name=HWRev
+Value=V1.0
+
+[Parameter4]
 Name=DrawnBy
 Value=David
 
-[Parameter4]
-Name=CompanyName
-Value=Mayht
-
 [Parameter5]
-Name=address2
-Value=2153PA Nieuw-Vennep
+Name=CompanyName
+Value=
 
 [Parameter6]
+Name=address2
+Value=
+
+[Parameter7]
 Name=address1
-Value=Drachmeweg 111
+Value=
 
 [Configuration1]
 Name=Sources
