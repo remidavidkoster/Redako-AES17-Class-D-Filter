@@ -4,7 +4,7 @@ A compact AES17 / Class D Filter board based on the Audio Precision AUX0025, yet
 
 ![](Side.png)
 
-![](Bottom Side.png)
+![](BottomSide.png)
 
 # Schematics
 
